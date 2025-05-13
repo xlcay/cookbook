@@ -1,0 +1,1725 @@
+[
+    {
+      "id": 1,
+      "baslik": "Peynirli Kek",
+      "kategori": "Kek",
+      "resim": "/images/kategoriler/kek.jpg",
+      "etiketler": ["kek", "dereotu", "peynir", "peynirli"],
+      "malzemeler": [
+        "4 adet yumurta",
+        "1.5 su bardağı yoğurt",
+        "125gr. Sana yağ",
+        "1 çay bardağı zeytin yağ",
+        "250gr. peynir",
+        "3 su bardağı un",
+        "Dereotu veya Maydonoz"
+      ],
+      "hazirlanis": [
+        "Yumurta ve yoğurdu beraber çırp.",
+        "Diğer malzemeleri içine koy."
+      ],
+      "notlar": "Not Yok"
+    },
+    {
+        "id": 2,
+        "baslik": "Hindistan Cevizli Kurabiye",
+        "kategori": "Kurabiye",
+        "resim": "/images/kategoriler/kurabiye.jpg",
+        "etiketler": ["kurabiye", "hindistan", "hindistan cevizi"],
+        "malzemeler": [
+          "1.5 su bardağı şeker",
+          "3 veya 4 bardak un",
+          "2 yumurta (sarısı içine)",
+          "1 paket kabartma tozu",
+          "Hindistan Cevizi"
+        ],
+        "hazirlanis": [
+          "Yumurtaları ve şekeri çırp.",
+          "Yağ, kabartma tozu ve un yavaş yavaş katılır.",
+          "Şekillendir",
+          "Yumurtaya batırıp üzerine Hindistan cevizi serp.",
+          "Fırına sür."
+        ],
+        "notlar": "Not Yok"
+    },
+    {
+      "id": 3,
+      "baslik": "Susamlı Çörek",
+      "kategori": "Poğaça",
+      "resim": "/images/kategoriler/pogaca.jpg",
+      "etiketler": ["susam", "susamlı", "çörek", "poğaça"],
+      "malzemeler": [
+        "Yarım çay bardağı zeytinyağı",
+        "Yarım çay bardağı su",
+        "Yarım çay bardağı limon",
+        "1 Yumurta",
+        "125gr. yağ",
+        "Kabartma tozu"
+      ],
+      "hazirlanis": [
+        "Yumurta sarısı içine beyazı dışına"
+      ],
+      "notlar": "Not Yok"
+  },
+  {
+    "id": 4,
+    "baslik": "Çaylı Kek",
+    "kategori": "Kek",
+    "resim": "/images/kategoriler/kek.jpg",
+    "etiketler": ["kek", "çay"],
+    "malzemeler": [
+      "1 su bardağı demli çay",
+      "1 su bardağı erimiş margarin",
+      "3 su bardağı un",
+      "1.5 su bardağı şeker",
+      "3 yumurta",
+      "Tarçın",
+      "1 çay kaşığı kabartma tozu",
+      "2 çorba kaşığı kakao"
+    ],
+    "hazirlanis": [
+      ""
+    ],
+    "notlar": "Not Yok"
+},
+{
+  "id": 5,
+  "baslik": "Tuzlu Ay Çöreği",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["ay", "tuzlu", "çörek"],
+  "malzemeler": [
+    "3 su bardağı un",
+    "1 küçük paket margarin",
+    "4 kaşık süt",
+    "3 patates",
+    "2 çay bardağı bira mayası",
+    "1 su bardağı kaşar peyniri"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 6,
+  "baslik": "Elmalı Pasta",
+  "kategori": "Yas Pasta",
+  "resim": "/images/kategoriler/yaspasta.jpg",
+  "etiketler": ["yaş pasta", "elma"],
+  "malzemeler": [
+    "250gr. Sana yağ",
+    "3 kaşık yoğurt",
+    "3 su bardağı un",
+    "1.5 su bardağı şeker",
+    "1 tatlı kaşığı kabartma tozu"
+  ],
+  "hazirlanis": [
+    "2 Elma Rendeleyip suyunu sık.",
+    "3 yemek kaşığı şeker ile tencerede pişir.",
+    "Biraz tarçın konup sigara gibi sarılır.",
+    "Pudra şekeri ekilir."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 7,
+  "baslik": "Kurabiye",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["kurabiye"],
+  "malzemeler": [
+    "125gr. Sana yağ",
+    "1 yemek kaşığı şeker.",
+    "1 havan ceviz",
+    "1 çay kaşığı karbonat"
+  ],
+  "hazirlanis": [
+    "Sana yağını iyice kızartıp şekeri ilave edilecek.",
+    "Aldığı kadar un.",
+    "Fırından çıkınca toz şeker serp."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 8,
+  "baslik": "Rulo Pasta",
+  "kategori": "Yas Pasta",
+  "resim": "/images/kategoriler/yaspasta.jpg",
+  "etiketler": ["rulo", "pasta", "yaş pasta"],
+  "malzemeler": [
+    "150gr. şeker",
+    "2 fincan un",
+    "4 adet yumurta",
+    "1 bardak marmelat"
+  ],
+  "hazirlanis": [
+    "4 yumurta şekerle beraber yarım saat çırpılacak ve un ilave edilecek.",
+    "Yağlanmış tepsiye dökülecek.",
+    "15 dakika pişir.",
+    "1 bardak marmelatı üzerine yay.",
+    "Hamuru kıvırarak üstüne marmelat dök."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 9,
+  "baslik": "Kunta Kinte",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek", "kunta kinte"],
+  "malzemeler": [
+    "5 yumurta",
+    "1.5 bardak süt",
+    "2 bardak un",
+    "1 bardak sıvı yağ",
+    "2 paket kabartma tozu",
+    "1 paket kakao tozu",
+    "1.5 bardak karışım ayır."
+  ],
+  "hazirlanis": [
+    "Şeker ve yumurtayı çırp.",
+    "Erimiş yağı 1 bardak süt ve 2 yemek kaşığı kakaoyu karıştır."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 10,
+  "baslik": "Çin Salatası (Gültenin)",
+  "kategori": "Aperatif",
+  "resim": "/images/kategoriler/aperatif.jpg",
+  "etiketler": ["aperatif", "salata", "çin"],
+  "malzemeler": [
+    "Haşlanmış pirinç",
+    "Salatalık turşusu",
+    "1 demet maydonoz",
+    "Dereotu",
+    "Taze soğan",
+    "Limon",
+    "Karabiber",
+    "Tuz"
+  ],
+  "hazirlanis": [
+    "Haşlanmış pirinci soğuk suyla süz.",
+    "Sunum yapacağında pirinci, yağı, limonu, karabiberi koy."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 11,
+  "baslik": "Makarnalı Salata (Gültenin)",
+  "kategori": "Aperatif",
+  "resim": "/images/kategoriler/aperatif.jpg",
+  "etiketler": ["makarna", "salata", "aperatif"],
+  "malzemeler": [
+    ""
+  ],
+  "hazirlanis": [
+    "Makarnayı haşla ve süz.",
+    "Bezelye, havuç, salatalık turşusu, süzme yoğurt, mayonez(2 kaşık), sarımsak, dere otu hepsini karıştır."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 12,
+  "baslik": "Ay Çöreği",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["poğaça", "çörek", "ay"],
+  "malzemeler": [
+    "1 bardak ılık su",
+    "2 yemek kaşığı pakmaya",
+    "2 yumurta (Birinin sarısı üstüne sürülecek).",
+    "1 bardak çiçek yağı",
+    "Yarım Sana yağ"
+  ],
+  "hazirlanis": [
+    "1 kahve kaşığı tuz aldığı kadar un, hamurun mayalanmasını bekleme.",
+    "Pişi hamuru gibi aç.",
+    "Malzemesini koyup ince bir şekilde kapat."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 13,
+  "baslik": "Tuzlu Bisküvi",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["tuzlu", "kurabiye"],
+  "malzemeler": [
+    "125gr. un",
+    "1 kahve kaşığı kırmızı biber",
+    "100 gr. gravyer peyniri (rendelenmiş)",
+    "100 gr. yağ yumuşak.",
+    "1 yumurta"
+  ],
+  "hazirlanis": [
+    "Malzemelerin hepsini bir tencerede pişir.",
+    "Ocaktan indirirken 1 paket Vanilya, 1 limon rendesi koy.",
+    "Yağlanmış tepsiye yarısını dök arasına dökülmüş."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 14,
+  "baslik": "Tahinli Şekerli Kurabiye",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["kurabiye", "tahinli", "şekerli"],
+  "malzemeler": [
+    "1 su bardağı yoğurt",
+    "1 su bardağı ceviz",
+    "1 su bardağı şeker",
+    "1 su bardağı tahin",
+    "Kabartma tozu",
+    "3 Yumurta",
+    "Un"
+  ],
+  "hazirlanis": [
+    "Yoğurt, 3 yumurta (birinin sarısı dışına), eritilip soğutulmuş margarin ve şeker koy.",
+    "Aldığı kadar un. hamuru yap.",
+    "Başka bir kapta tahin ve cevizi karıştır.",
+    "Hamuru ikiye ayır.",
+    "Kalın olarak aç içine tahinli ceviz koy rulo gibi sar.",
+    "Yağlı tepsiye koy.",
+    "Üstüne yumurta sarısı sür kızarana kadar pişir sonra kes."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 15,
+  "baslik": "Patlıcanlı Köfte",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["patlıcan", "köfte", "ana yemek"],
+  "malzemeler": [
+    "Kıyma",
+    "Rendelenmiş soğan",
+    "Kara biber",
+    "Et bulyon",
+    "Tuz",
+    "Salça"
+  ],
+  "hazirlanis": [
+    "Patlıcanları dilim dilim keseceğiz ama kopartmadan.",
+    "Aralarına Köfteleri yerleştir.",
+    "Yeşil biber dilimleri de aralarına yerleştir.",
+    "Üzerine domates rendesi dök.",
+    "Tencerede pişecek üzerine su dök az olacak."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 16,
+  "baslik": "Tavuk Salatası (Esra Ceyhan Tarifi)",
+  "kategori": "Aperatif",
+  "resim": "/images/kategoriler/aperatif.jpg",
+  "etiketler": ["tavuk", "salata", "aperatif"],
+  "malzemeler": [
+    "Haşlanmış tavuk (1 adet tavuk göğüs)",
+    "2 haşlanmış patates",
+    "1 haşlanmış havuç",
+    "3 adet turşu salatalık",
+    "Sarımsaklı yoğurt yarım kilo",
+    "2 Kaşık zeytinyağı",
+    "Maydonoz,Karabiber,Tuz"
+  ],
+  "hazirlanis": [
+    "Tavukları pinçikle.",
+    "1 tatlı kaşığı tuz at.",
+    "Patates, havuç ve salatalık turşusunu doğra.",
+    "Sarımsaklı yoğurtu karıştır maydonozu üzerine süslemek için kullan.",
+    "Üstünü fındık,ceviz,kırmızı biber serp."   
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 17,
+  "baslik": "Sütlü İncir Tatlısı",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek", "tatlı", "süt", "incir"],
+  "malzemeler": [
+    "1 litre süt",
+    "10 incir",
+    "2 çorba kaşığı un",
+    "1 çorba kaşığı nişasta",
+    "1 su bardağı şeker",
+    "Ceviz",
+    "Damla sakızı",
+    "Kakaolu bisküvi"
+  ],
+  "hazirlanis": [
+    "İnciri bir bardak suyla haşla ve süz soğusun.",
+    "Başka bir kapta süt,un,nişasta ve şekeri pişir koyulaşsın içine damla sakızı koy.",
+    "Kalıbın en altına haşlanmış incir ve ceviz döşe onunu üstüne biraz muhallebe dök. Üstüne kakaolu bisküvi yerleştir kalan muhallebiyi dök soğusun.",
+    "1 gün sonra kalıbı ters çevir ve çıkar üstüne tarçın serp."
+  ],
+  "notlar": "Katmanlar üstten alta sırasıyla; Muhallebi,Bisküvi,Muhallebi,İncir."
+},
+{
+  "id": 18,
+  "baslik": "Piyaz Tarator",
+  "kategori": "Aperatif",
+  "resim": "/images/kategoriler/aperatif.jpg",
+  "etiketler": ["aperatif", "piyaz", "tarator"],
+  "malzemeler": [
+    "Yarım kilo Tahin",
+    "2 baş sarımsak",
+    "Yarım kilo limon",
+    "Yarım fincan limon tuzu",
+    "Yarım yemek kaşığı tuz",
+    "1 su bardağı sirke"
+  ],
+  "hazirlanis": [
+    "Tahin ile sirkeyi yavaş yavaş karıştır yağı kusuncaya kadar.",
+    "Kusan yağ başka bir kaba alınır.",
+    "Eritilmiş limon tuzu, limon, sirke, karıştırılır ve tahinin içine azar azar karıştırarak koy."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 19,
+  "baslik": "Mantarlı Börek",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["börek", "mantar", "kaşar"],
+  "malzemeler": [
+    "1 kg mantar",
+    "4-5 adet yufka",
+    "2-3 adet sivri biber",
+    "2.5 su bardağı süt",
+    "Margarin, kekik, pul biber",
+    "3 yumurta",
+    "Kaşar peyniri"
+  ],
+  "hazirlanis": [
+    "Mantarı ince ince doğra.",
+    "Mantarı margarin ile sotele biberleri koy.",
+    "malzemeleri de ilave et.",
+    "Tepsiyi yağla yufkaları diz arasına sosunu dök.",
+    "Sonra ortasına Mantarı yay onun üstüne kaşar peyniri serp ve yufka ile kapat."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 20,
+  "baslik": "Ispanaklı Kek (Gültenin)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek", "ıspanak"],
+  "malzemeler": [
+    "3 Yumurta",
+    "2.5 su bardağı şeker",
+    "1 su bardağı süt",
+    "1 su bardağı sıvı yağ",
+    "1.5 su bardağı haşlanmış ıspanak",
+    "Kabartma tozu",
+    "Vanilya",
+    "Soda"
+  ],
+  "hazirlanis": [
+    "Ispanağı yıka tencerede susuz yağsız hafifçe kavur.",
+    "Sonra Rondodan geç, kek gibi yap.",
+    "Piştikten sonra krema ve hindistan cevizi serp."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 21,
+  "baslik": "İrmik Tatlısı (Selma Ablamın)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["irmik", "tatlı"],
+  "malzemeler": [
+    "10 kaşık irmik",
+    "1 litre süt",
+    "Vanilya, Hindistan Cevizi"
+  ],
+  "hazirlanis": [
+    "Ocakta pişir içine hindistan cevizi koy.",
+    "Kalıbın dibine hindistan cevizi serp irmiği dök.",
+    "Soğuğunca buzdolabına koy üstüne hindistan cevizi ve vanilya dök."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 22,
+  "baslik": "Şekerpare",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["şekerpare", "tatlı"],
+  "malzemeler": [
+    "200gr. margarin",
+    "200gr pudra şekeri",
+    "yarım kilo un",
+    "4 adet yumurta",
+    "Kabartma tozu",
+    "Toz badem",
+    "Şerbet için: 1 litre su, 1 kilo şeker, yarım limon"
+  ],
+  "hazirlanis": [
+    "Margarini buzdolabından al mikserle erit köpürsün.",
+    "Sonra pudra şekeri ile mikserle köpürt",
+    "Unu dök ortasını aç üstüne badem ve kabartma tozunu dök hamur yumuşacık olacak istediğin şekli ver."
+  ],
+  "notlar": "İkiside sıcak dökülecek şerbet için."
+},
+{
+  "id": 23,
+  "baslik": "Yalancı Tahinli Baklava (Melike)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["tatlı", "baklava", "tahinli"],
+  "malzemeler": [
+    "Yarım çay bardağı eritilmiş margarin(çay bardağından eksik 1 parmak)",
+    "1 adet yufka",
+    "1 çay bardağı tahin",
+    "1 çay bardağı toz şeker",
+    "1 çay bardağı dövülmüş ceviz",
+    "1 yumurta sarısı",
+    "pudra şekeri"
+  ],
+  "hazirlanis": [
+    "Yağı erit. Tahin ceviz şeker karıştır.",
+    "Bir yufkaya sür rulo gibi sar üzerine yumurta sarısı sür kes.",
+    "Tepsiye diz fırında pişir soğuğunca pudra şekeri serp."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 24,
+  "baslik": "Kahveli Kek",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek", "kahve"],
+  "malzemeler": [
+    "3 yumurta",
+    "1 su bardağı şeker",
+    "Kahve, toz fındık, kabartma tozu, vanilya, yoğurt",
+    "Un"
+  ],
+  "hazirlanis": [
+    "1 Su bardağı suya 1 kahve kaşığı kahve koy karıştır.",
+    "Pişen kekin üstüne yedir üstüne krem şanti dök.",
+    "En üstüne çikolata parçası"
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 25,
+  "baslik": "Rulo Pasta (Sadiyenin)",
+  "kategori": "Yas Pasta",
+  "resim": "/images/kategoriler/yaspasta.jpg",
+  "etiketler": ["yaş pasta", "rulo"],
+  "malzemeler": [
+    "4 adet yumurta",
+    "1 su bardağı un",
+    "1.5 su bardağı şeker",
+    "Nemli beze sar.",
+    "Krema: 3 su bardağı süt, 2 kaşık un, 1 kaşık nişasta, 1 su bardağı şeker, vanilya. 3 çorba kaşığı kakao, yarım paket sana."
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "2 yumurta çikolatayı içine koy."
+},
+{
+  "id": 26,
+  "baslik": "Etimekli Tatlı (Muzlu)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["tatlı", "muzlu", "etimek"],
+  "malzemeler": [
+    "Süt",
+    "Etimek Tuzsuz",
+    "2 yemek kaşığı irmik",
+    "1 paket vanilya",
+    "1 yumurta",
+    "1 çay bardağı toz şeker",
+    "Muz ve krem şanti"
+
+
+  ],
+  "hazirlanis": [
+    "1 paket etimek, 2 su bardağı su ile 2 su bardağı şekeri kaynat (fazla değil.)",
+    "Etimek'in üzerine dök üstünü kapat yumuşamasın.",
+    "1 Paket vanilya, 1 yumurta, 1 çay bardağı toz şeker birlikte pişirilecek.",
+    "Etimeklerin üstüne dök sonra soğusun.",
+    "Servis yapacağın zaman muzu doğra krem şantiyi dök."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 27,
+  "baslik": "Portakallı Kek",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek", "portakal"],
+  "malzemeler": [
+    "3 yumurta",
+    "125gr. margarin yağ",
+    "Vanilya",
+    "3 portakal",
+    "7 çorba kaşığı toz şeker",
+    "7 çorba kaşığı un",
+    "Kabartma tozu",
+    "Şurup için: 3 portakalın suyu ve 6 çorba kaşığı toz şeker."
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 28,
+  "baslik": "Tarhananın Yapılışı (Anneannemin Tarifi)",
+  "kategori": "Aperatif",
+  "resim": "/images/kategoriler/aperatif.jpg",
+  "etiketler": ["tarhana", "aperatif"],
+  "malzemeler": [
+
+  ],
+  "hazirlanis": [
+    "1,2 kilo soğan, Ayva, Dereotunu kaynat ve bunun suyu ile göceyi pişir.",
+    "Soğanı nohutun içine kat karıştır.",
+    "Nohutu haşlayıp soğanla beraber ez.",
+    "Sonra nane, tuz, domates, yeşil biberi sık ve hepsini karıştır.",
+    "Göceyi pişirdikten sonra hepsini karıştırıyosun ve bir çuvala koy şişsin.(kırmızı biber salçası), un ve sütü 1-2 gün durdurup kestir. sonra karıştırıyoruz daha önce domates suyu veya yoğurt ile yoğur şişsin."
+
+  
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 29,
+  "baslik": "Dalyan Köfte",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["dalyan", "köfte"],
+  "malzemeler": [
+    "Kıyma",
+    "Soğan",
+    "Maydonoz",
+    "Ekmek",
+    "Yumurta",
+    "Bezelye",
+    "Havuç, kekik, defne"
+  ],
+  "hazirlanis": [
+    "Kıyma, soğan, maydonoz, ekmek, yumurta köfte gibi yoğurulur.",
+    "Köfteli hamur yufka gibi yayılır ortasına bezelye yumurta havuç kesilerek dizilir.",
+    "Ellerini yağlayarak rulo yapılır.",
+    "Rulonun dışına yumurta beyazı sürülür.",
+    "Yağlanmış tepsiye koyup pişirilir. Rulo dilimler halinde kesilir.",
+    "Ayrı bir yerde salça, yağ, baharatlar karıştırılıp kesilmiş rulonun üstüne dökülür biraz daha pişirilir.",
+    "Patates ekle biraz daha pişsin." 
+  ],
+  "notlar": "Not Yok"
+},
+
+{
+  "id": 30,
+  "baslik": "Dana Rosto",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["dana", "rosto"],
+  "malzemeler": [
+    "Kereviz",
+    "Soğan",
+    "Havuç",
+    "Sıvı yağ",
+    "Et"
+  ],
+  "hazirlanis": [
+    "1 Kereviz, 2 soğan, 1 havuç ince ince doğrayın.",
+    "Büyük Rosto etini bıçakla delip aralarına sarımsak ve üstüne karabiber ve tuz dök.",
+    "Sıvı yağ ile soğanlı karışımı ile birlikte kavur.",
+    "1 su bardağı su ve etide koy kaynasın."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 31,
+  "baslik": "Paskalya Çöreği",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["paskalya", "çörek"],
+  "malzemeler": [
+    "1 tatlı kaşığı un",
+    "1 tatlı kaşığı şeker",
+    "2 fincan zeytinyağı",
+    "2 yumurta",
+    "Un"
+  ],
+  "hazirlanis": [
+    "İç kısım için istediğin malzemeyi kullanabilirsin.",
+    "Hamurunu 3 büyük parçaya ayır.",
+    "Parçanın birini alıp onuda üçe bölüp her parçasını uzatıp iç malzemelerini koyup kapatın.",
+    "Yağlanmış tepsiye koyup 10 dakika dinlendir ve üzerine yumurta sür."
+  ],
+  "notlar": "İç kısım için istediğin malzemeyi kullanabilirsin."
+},
+{
+  "id": 32,
+  "baslik": "Çizkek",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["çizkek", "kek"],
+  "malzemeler": [
+    "2 bardak un",
+    "1 bardak pudra şekeri",
+    "2 yumurta",
+    "2 yaprak jelatin",
+    "125gr. margarin yağ",
+    "Yarım limon suyu",
+    "1 su bardağı yoğurt",
+    "2 elma,armut,şeftali",
+    "1 bardak krem şanti"
+  ],
+  "hazirlanis": [
+    "Unun içine pudra şekerinin yarısını yağı yumurta kırdıktan sonra yoğur ve 15 dakika beklet.",
+    "Fırında 15-20 dakika pişsin.",
+    "Üstünü kes, geri kalanını da kes.",
+    "Jelatini ılık suda erit içine yoğurt, krem şanti, limon suyu ve şekeri katıp çırp.",
+    "Sonra Meyveleri kes.",
+    "Birinci kekin üzerine krem şantiyi sür ve üzerine meyveleri koy.",
+    "Diğer kek parçasını koy ve üzerine krem şantiyi sür.",
+    "Üzerine pudra şekeri serp."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 33,
+  "baslik": "Makine Bisküvisi",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["makine", "makina", "bisküvi"],
+  "malzemeler": [
+    "1 paket margarin",
+    "1 su bardağı çiçek yağı",
+    "3 yumurta",
+    "Karbonat",
+    "1.5 su bardağı şeker"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 34,
+  "baslik": "Kalburabastı",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kalburabastı", "tatlı"],
+  "malzemeler": [
+    "1 su bardağı yoğurt",
+    "1 su bardağı zeytinyağı",
+    "1 kaşık tereyağı",
+    "Karbonat",
+    "Ceviz",
+    "125gr. Sana yağ",
+    "Şurup için: 3 su bardağı şeker, 2.5 su bardağı su, 1 tatlı kaşığı limon suyu(sular soğuk olacak)"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Fırında piştikten sonra şurup dök"
+},
+{
+  "id": 35,
+  "baslik": "Rus Salatası",
+  "kategori": "Aperatif",
+  "resim": "/images/kategoriler/aperatif.jpg",
+  "etiketler": ["rus", "salata"],
+  "malzemeler": [
+    "4 kaşık mayonez",
+    "4 orta boy patates",
+    "Havuç",
+    "1 çay bardağı fincan bezelye",
+    "1 adet haşlanmış yumurta",
+    "2 dilim macar salamı",
+    "2-3 adet salatalık turşusu",
+    "1 çay kaşığı tuz",
+    "4 çay kaşığı karabiber"
+  ],
+  "hazirlanis": [
+    "Sebzeleri küp şeklinde doğra ve haşla.",
+    "Turşu,salam,yumurtayı doğra hepsini bir tabakta mayonez ile karıştır.",
+    "Üstüne yine mayonez dök ve maydonoz serp."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 36,
+  "baslik": "Lokma Tatlısı",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["lokma", "tatlı"],
+  "malzemeler": [
+    "3 kaşık yoğurt",
+    "3 Yumurta",
+    "1 bardak ılık su",
+    "1 kaşık pakmaya",
+    "Şurup için: 3 bardak şeker, 2 bardak su"
+  ],
+  "hazirlanis": [
+    "Kabardıktan sonra 1 kaşık soda ilave edilecek."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 37,
+  "baslik": "Bademli Bisküvi",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["kurabiye", "badem", "bademli"],
+  "malzemeler": [
+    "250gr. Pudra şekeri",
+    "Un",
+    "300gr. çekilmiş badem",
+    "3 yumurta"
+  ],
+  "hazirlanis": [
+    "Şeker yağ ve yumurtayı karıştır.",
+    "Badem ve Un ilave et şekil verip fırına sür."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 38,
+  "baslik": "Lokul (Lütfiye Teyzemin)",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["lokul", "tahinli", "tahin"],
+  "malzemeler": [
+    "1 ölçü sıvı yağ.",
+    "1 ölçü süt",
+    "1 ölçü ılık su"
+  ],
+  "hazirlanis": [
+    "Varsa süt yoksa patates yada yoğurt(bir kaşık). hamur mayasını(bir tatlı kaşığı) koy.",
+    "Yufka gibi yada elinle aç. Tahinin içine tuz koy.",
+    "Tuz koyduktan sonra tahini dök ve cevizini koy.",
+    "Rulo gibi dür tepside beklet, üstüne yumurta sür."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 39,
+  "baslik": "Sosyete Mantısı",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["sosyete", "mantı"],
+  "malzemeler": [
+    "1 yada yarım kilo yufka",
+    "yarım kilo yada 250gr kıyma",
+    "2 orta büyüklükte soğan",
+    "Yarım veya 1 demet maydonoz",
+    "Karabiber, kırmızı biber ve çok az salça"
+  ],
+  "hazirlanis": [
+    "Bir tavada kıyma, ince doğranmış soğan, salça, maydonoz ve karabiber karıştır.",
+    "Yufkayı dörde böl",
+    "Parçaların içine sosu koy sigara gibi sar. (sarı burma gibi)",
+    "Sos:Bir kaseye yoğurt koy sarımsak dövülecek. Tereyağını erit tavaya sıvıyağ koy. Isındığında mantıyı koy.",
+    "Servis yaparken yoğurtlu sos üzerine dökülecek."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 40,
+  "baslik": "Yoğurtlu Yufka Böreği",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["yoğurt", "yufka", "börek"],
+  "malzemeler": [
+    "1 kg yufka",
+    "1 paketten çok az eksik şekilde sana yağ",
+    "Yoğurt",
+    "1 yumurta"
+  ],
+  "hazirlanis": [
+    "Yufka üzerine sana yağ gezdir + yufka + yoğurt gezdir + yufka + sanayağ gezdir.",
+    "8'e böl, Rulo yap, Yağlı tepsiye diz.",
+    "Tanelerin ortasını hafifçe aç ve domates koy.",
+    "Üzerine 1 yumurta sarısı, 1 yemek kaşığı yoğurt ile kapla ve susam serp."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 41,
+  "baslik": "Mantı Çorbası",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["mantı", "çorba"],
+  "malzemeler": [
+    ""
+  ],
+  "hazirlanis": [
+    "Hazır mantıyı et suyunun içine koyup kaynat.",
+    "Yumurta ve limon ile terbiyele üzerine kırmızı biberle naneli yağ dök."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 42,
+  "baslik": "Gül Tatlısı",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["gül", "tatlı"],
+  "malzemeler": [
+    "Hamuru: 1 yumurta, kabartma tozu, un",
+    "Şerbet: 1 su bardağı şeker, 1 su bardağı sıcak su"
+  ],
+  "hazirlanis": [
+    "Katı bir hamur yap merdaneyle kalın olarak aç.",
+    "Şeritler halinde kes.",
+    "Şeritin ucundan çatalla tutarak yağa koyup rulo gibi kıvır.",
+    "Kızardıktan sonra soğuk şerbet dök. Hindistan cevizi dök."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 43,
+  "baslik": "Havuçlu Kek",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["havuç", "kek"],
+  "malzemeler": [
+    "4 adet yumurta",
+    "2 bardak şeker",
+    "3 bardak un",
+    "1 bardak ceviz",
+    "Kabartma tozu, krem şanti",
+    "2 bardak havuç"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 44,
+  "baslik": "Patatesli Börek",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["patates", "patatesli", "börek"],
+  "malzemeler": [
+    "4 patates",
+    "2 yumurta",
+    "3 yufka",
+    "Kaşar peyniri",
+    "1 çay bardağı süt",
+    "Kızartmalık sıvı yağ"
+  ],
+  "hazirlanis": [
+    "Peyniri rendele patatesleri haşla soy.",
+    "Rondoda patatesleri sütü 2 yumurta sarısını püre haline getir.",
+    "Başka bir kapta peyniri patatesi karıştır.",
+    "Yufkayı ortadan ikiye böl yuvarlak kısımlarına yumurta beyazını sür ve kızgın yağda kızart."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 45,
+  "baslik": "Şekerpare",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["tatlı", "şekerpare"],
+  "malzemeler": [
+    "1 çay bardağı toz şeker",
+    "1 çay bardağı sıvı yağ",
+    "1 paket margarin",
+    "2 yumurta",
+    "Karbonat, vanilya veya limon rendesi",
+    "Un",
+    "Şurup: 3 su bardağı şeker, 3 su bardağı su"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 46,
+  "baslik": "Nişastalı (Mısır) (Semranın Tarifi)",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["nişasta", "mısır"],
+  "malzemeler": [
+    "2 yumurta",
+    "1 su bardağı toz şeker",
+    "1 paket sana (yumuşak)",
+    "1 su bardağı zeytinyağı",
+    "1 çay bardağı karbonat"
+  ],
+  "hazirlanis": [
+    "1 paket nişastayı mısır koy bardakla ölç, aynı ölçü kadar un koy.",
+    "Şekillendirdikten sonra yumurta beyazına batır cevize batır."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 47,
+  "baslik": "Tavuk Mücver",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["tavuk", "mücver", "ana yemek"],
+  "malzemeler": [
+    "Taze soğan, kuru soğan",
+    "2 Yumurta",
+    "Limon suyu",
+    "Kabartma tozu",
+    "1 çay bardağı un"
+  ],
+  "hazirlanis": [
+    "Hepsini karıştır yağda kızart."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 48,
+  "baslik": "Tiramisu Kek (Alpay Abinin)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["tiramisu", "kek"],
+  "malzemeler": [
+    "2 su bardağı süt",
+    "1 çay bardağı şeker",
+    "Vanilya",
+    "2 çorba kaşığı un",
+    "250-200gr. Labne peyniri",
+    "Hazır kek, nescafe, kahve"
+  ],
+  "hazirlanis": [
+    "Süt, Şeker ve Unu koyu muhallebi olacak şekilde pişir, biraz soğuduktan sonra labne peyniri koy, mikserle çırp özleşsin.",
+    "1 su bardağı ılık suyun içine 2 tatlı kaşığı neskafe ve 2 kaşık şeker karıştır.",
+    "Ortadan ayrılmış kekin üstüne muhallebiyi yay üzerine kakaoyu süzgeç ile süsle.",
+    "Kekin yarısını üstüne kapat muhallebiyi dök üstüne kahve serp.",
+    "3-4 saat dinlensin."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 49,
+  "baslik": "Ay Çöreği İncirli (Fahriye Hanım)",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["çörek", "ay çöreği", "poğaça"],
+  "malzemeler": [
+    "4.5 bardak un",
+    "1 paket kuru maya yada 1 yemek kaşığı",
+    "1 Yumurta",
+    "5 çorba kaşığı şeker",
+    "1 çay bardağı süt",
+    "Yarım paket margarin (eritilmiş)",
+    "1 çay bardağı sıvı yağ",
+    "Yarım bardak kadar ılık su (maya için)",
+    "İç kısım : Kuru kayısı, Kuru incir, ceviz, 2 elma, üzerine 1 yumurta ve fındık"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 50,
+  "baslik": "Kıymalı Patatesli İçli Köfte",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["içli köfte", "patates", "köfte", "ana yemek"],
+  "malzemeler": [
+    "1 patates",
+    "150gr. ince bulgur",
+    "1 kaşık margarin",
+    "1 yumurta",
+    "İç kısım: 200gr kıyma, soğan, kimyon, maydonoz, kara biber"
+  ],
+  "hazirlanis": [
+    "İç kısımı kavur.",
+    "Bulguru sıcak suda yumuşat, patatesi haşla.",
+    "Bütün malzemeyi özleştir yoğur.",
+    "Sonra içli köfte gibi avcunun içinde parmakla kabak ortası açar gibi aç ve içine iç malzemeyi koy.",
+    "Yağda kızart"
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 51,
+  "baslik": "Patates Çorbası",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["çorba", "patates", "ana yemek"],
+  "malzemeler": [
+    ""
+  ],
+  "hazirlanis": [
+    "Patatesleri soyup dilimle ve karelere bölüp suda haşla.",
+    "ayrı bir yerde yoğurt ve unu karıştır",
+    "Patatesler pişince yoğurdu ilave et sonra kızarmış yağ dök."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 52,
+  "baslik": "Beşamel Sos",
+  "kategori": "Aperatif",
+  "resim": "/images/kategoriler/aperatif.jpg",
+  "etiketler": ["beşamel", "sos", "aperatif"],
+  "malzemeler": [
+    "1 su bardağı süt",
+    "1 su bardağı sıvı yağ",
+    "1 su bardağı maden suyu",
+    "1 paket yaş maya",
+    "2 yemek kaşığı şeker",
+    "1 yemek kaşığı tuz",
+    "Un"
+  ],
+  "hazirlanis": [
+    "Aldığı kadar un. kulak memesi yumuşaklığında olacak.",
+    "Sütü ılıt içine şeker koy mayayı içinde kabart.",
+    "Bütün malzemeleri karıştır. 1 saat kabarsın.",
+    "Şekil ver üstüne yumurta sür."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 53,
+  "baslik": "Haşhaşlı Tatlı Kek",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["haşhaşlı", "haşhaş", "tatlı", "kek"],
+  "malzemeler": [
+    "3 Yumurta",
+    "1 su bardağı şeker",
+    "1 su bardağı süt",
+    "1 su bardağı irmik",
+    "1 veya 1.5 su bardağı un",
+    "1 su bardağı sıvı yağ",
+    "1 paket vanilya",
+    "1 su bardağı haşhaş",
+    "Kabartma tozu",
+    "Şerbet için: 1.5 su bardağı şeker, 1.5 su bardağı su"
+  ],
+  "hazirlanis": [
+    "Şerbeti kaynatmadan karıştır ve erit. kek ılıkken üzerine dök.",
+    "Krem şanti hazırla ve soğukken üzerine dök."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 54,
+  "baslik": "Börek (Gültenin gelini Ayşe'nin)",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["börek", "poğaça"],
+  "malzemeler": [
+    "1 su bardağı yoğurt",
+    "Yarım su bardağı süt",
+    "Yarım su bardağı sıvı yağ",
+    "Peynir"
+  ],
+  "hazirlanis": [
+    "Yufkayı dörde böl, sıvı yağ sür, karışımını koy rulo yap ve tepsiye diz."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 55,
+  "baslik": "Tel Kadayıflı Muhallebi",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["tel kadayıf", "muhallebi", "tatlı"],
+  "malzemeler": [
+    "250gr. tel kadayıf",
+    "2-3 kaşık tereyağ",
+    "Yarım su bardağı şeker",
+    "Muhallebi için: 1 litreden biraz az süt, 1 su bardağı un, 1 su bardağı şeker, damla sakızı (hazır damla sakızlı muhallebi yada puding içine damla sakızı olacak şekilde olabilir)" 
+    
+
+  ],
+  "hazirlanis": [
+    "Tencerede tereyağını erit.",
+    "Kadayıfları tiftik yap sonra yağ ile kavur, üstüne yarım bardak şeker ekle. iyice kızarsın karıştır. Kadayıfın içine fındık veya ceviz ekle biraz daha kavur ve soğumaya bırak.",
+    "Muhallebi için: Un ve tereyağını kavur, içine süt ve damla sakızı ilave et. pişir ve ılımaya bırak.",
+    "Tel kadayıf ve muhallebi ılıdıktan sonra tel kadayıfı bir tepsiye yarısını yay. Üzerine ılıyan muhallebiyi dök. Onun üstüne kalan tel kadayıfı yay.",
+    "Sunum için 3-4 saat buzdolabında beklet."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 56,
+  "baslik": "Poğaça (Sevim Yengenin)",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["poğaça"],
+  "malzemeler": [
+    "2 yumurta (Birinin sarısı üstüne sürülecek).",
+    "1 su bardağı yoğurt",
+    "1 su bardağı sıvı yağ",
+    "Karbonat",
+    "Aldığı kadar Un",
+    "1 çay kaşığı şeker"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 57,
+  "baslik": "Poğaça (Gültenin)",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["poğaça"],
+  "malzemeler": [
+    "1 tane bütün yaş maya",
+    "2 yumurta (sarısı üstüne sürülecek).",
+    "4 tatlı kaşığı şeker",
+    "1 tatlı kaşığı tuz",
+    "1 su bardağı ılık su",
+    "1 su bardağı süt",
+    "1 su bardağı sıvı yağ"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 58,
+  "baslik": "Fatma Yükselin Kurabiyesi (Öğrenci)",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["kurabiye"],
+  "malzemeler": [
+    "1 margarin oda sıcaklığında",
+    "1 çay bardağı sıvı yağ",
+    "1 çay bardağı şeker",
+    "4-5 kaşık pudra şekeri",
+    "Mısır nişastası",
+    "Vanilya, Kabartma Tozu, Un"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 59,
+  "baslik": "Prenses Tatlısı (Hatice hanımın kızı Ece'nin Tarifi)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek", "prenses", "tatlı"],
+  "malzemeler": [
+    "1 litre süt",
+    "2 çay bardağı un.",
+    "1 su bardağı şeker",
+    "Damla sakızı, Sıcak Çikolata"
+  ],
+  "hazirlanis": [
+    "Yağ ve un kavrulur sonra süt, şeker ve damla sakızı(küçük parçalar halinde) ilave edilir 5-10 dakika kaynatılır ve soğumaya bırakılır.",
+    "10-15 dakika çırp.",
+    "Borcama kakaolu bisküviyi un haline getir ve yerleştir muhallebiyi dök.",
+    "Üzerine sıcak çikolata sosu yap ve sos soğuduktan sonra dök."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 60,
+  "baslik": "Pirinçli But Dolması",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["pirinç", "but", "dolma", "ana yemek"],
+  "malzemeler": [
+    "Portakal suyu",
+    "Kara biber, tuz",
+    "Açılmış but(derili şekilde)",
+    "1 su bardağı pirinç",
+    "Dolma baharatı",
+    "Tarçın, kuş üzümü ve dolmalık fıstık"
+  ],
+  "hazirlanis": [
+    "Butları portakal suyu, kara biber ve tuz içinde dinlendir.",
+    "Tereyağı, soğan, pirinç, tuz kavur ve baharatları koy. 1 su bardağı kaynamış su koy (çok pişirme biraz çiğ olsun)",
+    "Butun içine koy rulo yap açık kısmı alta gelecek şekilde fırına ver."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 61,
+  "baslik": "Mantar Çorbası",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["mantar", "ana yemek", "çorba"],
+  "malzemeler": [
+    "1 kase mantar",
+    "1 çorba kaşığı tereyağı",
+    "Su ve tuz",
+    "3 çorba kaşığı un",
+    "1 soğan",
+    "1 su bardağı süt"
+  ],
+  "hazirlanis": [
+    "Yağı erit, soğanı sotele, mantarı ekle ve kavur.",
+    "Unu ekle sonra süt ve suyu ekle karıştır.",
+    "Sıcak su ekle pişince üstüne maydonoz ekle."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 62,
+  "baslik": "Pekmezli Kurabiye (Ayşe Abla)",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["kurabiye", "pekmez"],
+  "malzemeler": [
+    "2 yumurta",
+    "Yarım çay bardağı şeker",
+    "1 su bardağı sıvı yağ",
+    "125gr. tereyağ",
+    "1 su bardağı mısır nişastası",
+    "1 tane kabartma tozu",
+    "Un",
+    "İç kısım: ince doğranmış incir-ceviz"
+  ],
+  "hazirlanis": [
+    "Kalburabastı şeklinde yap arasına harcı koy pişir.",
+    "Pekmeze batır üzerine hindistan cevizi dök"
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 63,
+  "baslik": "Tarhananın Yapılışı (Ablamla yaptığımız Tarif)",
+  "kategori": "Aperatif",
+  "resim": "/images/kategoriler/aperatif.jpg",
+  "etiketler": ["aperatif"],
+  "malzemeler": [
+    "3 kilo un",
+    "1 kilo domates",
+    "1 kilo soğan",
+    "1 kilo kırmızı biber",
+    "1 kilo nohut",
+    "Yarım kilo göce (kırık buğday)",
+    "1 demet dereotu",
+    "1 kilo yoğurt",
+    "Varsa 1-2 dal çördük"
+  ],
+  "hazirlanis": [
+    "Soğan, dereotu ve naneyi beraber suyu üstünü örtecek kadar haşla",
+    "Haşlanan su ile göceyi pişir(Pilav kıvamında)",
+    "Başka tarafta biber, domatesi rondodan çek ve sonra bütün malzemeleri birleştir. Tuz koy ve yoğur.",
+    "Gün aşırı karıştır (3 Hafta Boyunca) sonra sofra altına ser(mıncıkla) kuruyunca elinle ez."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 64,
+  "baslik": "Kadriye Hoca'nın Keki",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek"],
+  "malzemeler": [
+    "3 yumurta",
+    "8 yemek  kaşığı şeker",
+    "1 kahve fincanı su",
+    "1 kahve fincanı sıvı yağ",
+    "10 yemek kaşığı un",
+    "Vanilya, Kabartma Tozu",
+    "Üstüne: 1.5 su bardağı süt, 1 yemek kaşığı kakao, 6 yemek kaşığı şeker ve 1 çay bardağı krem şantiyi çırp, keki ıslat."
+  ],
+  "hazirlanis": [
+    "Keki ılıkken çatal ile del."
+    
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 65,
+  "baslik": "Hindistan Cevizli Kurabiye(Sütçüler'deki Leyla'nın Tarifi)",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["kurabiye", "hindistan cevizi", "hindistan"],
+  "malzemeler": [
+    "1 yumurta",
+    "1 fincan şeker",
+    "1 kahve fincanı sıvı yağ",
+    "150gr. margarin",
+    "1 paket kabartma tozu",
+    "1 paket kakao",
+    "1.5 çorba kaşığı nişasta",
+    "İç malzeme: 1 fincan pudra şekeri, 1 paket hindistan cevizi, 1 fincan süt(hindistan cevizi ıslanıncaya kadar dök yeterli hepsine gerek yok.)"
+  ],
+  "hazirlanis": [
+    "Yumurta ve şekeri güzel şekilde çırp.",
+    "Margarini, sıvı yağı katıp ellerinle yoğur. Bu karışına Un, kabartma tozu, vanilyayı koy ve katılaşmadan önce kakao ve nişastayı koy.",
+    "Kulak memesi kıvamına gelinceye kadar yoğur."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 66,
+  "baslik": "Rulo Patates (Neriman)",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["patates", "rulo", "ana yemek"],
+  "malzemeler": [
+    "İç malzemeler: Havuç ve Bezelye(İkiside haşlanmış olacak), Turşu ve yumurta."
+  ],
+  "hazirlanis": [
+    "5-6 patatesi haşla ve rendele, içine karabiber, sıvı yağ, limon karıştır.",
+    "Streçin üstüne patatesi yay ve harcı koy.Rulo haline getir ve streçle kapat.",
+    "1 gece beklesin dilimlemeden önce maydonoz serp ve dilimle."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 67,
+  "baslik": "Açma (Neriman)",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["açma", "poğaça"],
+  "malzemeler": [
+    "1 paket maya",
+    "1 su bardağı süt",
+    "1 su bardağı su",
+    "1 su bardağı çiçek yağı",
+    "5 yemek kaşığı toz şeker",
+    "4 çay kaşığı tuz"
+  ],
+  "hazirlanis": [
+    "Akşamdan hamurunu hazırla buzdolabında beklet, kulak memesi kıvamında olsun. Üstüne yumurta sür."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 68,
+  "baslik": "Hazır Kekli Tatlı (Dokuma Hatice Hanım)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek", "hindistan cevizi"],
+  "malzemeler": [
+    "1 çay bardağı şeker",
+    "1 çay bardağı hindistan cevizi",
+    "1 çay bardağı ceviz",
+    "1 çay bardağında biraz az sıvı yağ",
+    "1 yumurta"
+  ],
+  "hazirlanis": [
+    "Karıştır ve kekin üzerine sür.",
+    "Fırına ver 10 dakika pişsin karışım pişince fırından çıkar",
+    "Sunum için soğut"
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 69,
+  "baslik": "Çimdik Tatlı (Nursel'in Mutfağı)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["çimdik", "tatlı"],
+  "malzemeler": [
+    "1 yumurta",
+    "1 çay bardağı sıvı yağ",
+    "1 çay bardağı süt",
+    "1 çay kaşığı kabartma tozu",
+    "Un",
+    "İç kısım: Tarçın, 1 yemek kaşığı şeker, ceviz",
+    "Şerbet: Yarım bardak su, 3 bardak şeker"
+  ],
+  "hazirlanis": [
+    "Yoğurduktan sonra küçük parçalar al ve cevize batır, içine biraz daha ceviz koy ve kapat",
+    "2si ılıdıktan sonra dök"
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 70,
+  "baslik": "Kalburabastı 2",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["kurabiye", "tatlı", "kalburabastı"],
+  "malzemeler": [
+    "150gr. tereyağ",
+    "1 çb zeytin yağ",
+    "2 çb irmik",
+    "Kabartma tozu",
+    "2 çb yoğurt",
+    "11 çb Un",
+    "Ceviz"
+  ],
+  "hazirlanis": [
+    "tereyağı, zeytin yağı, yumurta, yoğurt karıştır.",
+    "irmik, un, kabartma tozunu yoğur",
+    "Parçaya rende ile şekil ver içine ceviz koy rulo yap."
+  ],
+  "notlar": "İncirleri küp şeklinde doğradıktan sonra sıcak suda 5 dakika beklet."
+},
+{
+  "id": 71,
+  "baslik": "İncirli Tatlı (Türkan Dokuma)",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["kurabiye", "incir", "incirli", "tatlı"],
+  "malzemeler": [
+    "6 kuru incir (küp küp doğranmış)",
+    "1 su bardağı un",
+    "1 su bardağı şeker",
+    "1 avuç fındık,ceviz",
+    "1 su bardağı süt",
+    "3 yumurta",
+    "1 kaşık tarçın",
+    "Vanilya",
+    "Kabartma tozu",
+    "Muhallebi için: 4 su bardağı süt, 2 çorba kaşığı nişasta, 3 çorba kaşığı un, 6 çorba kaşığı şeker, 1 çorba kaşığı tereyağ, 1 paket krem şanti(kuru)",
+    "Şerbet: 1.5 su bardağı ılık su, 1 su bardağı şeker,1 kaşık nescafe "
+  ],
+  "hazirlanis": [
+    "Kek için olan her şeyi karıştır 180 derece 20 dakika pişir.",
+    "Şerbet için neskafeyi hazırla(soğuk olacak) kek fırından çıktıktan 3-4 dakika sonra keke dök.",
+    "Muhallebiyi hazırla, indirmeye yakın tereyağı ocağı kapatınca krem şantiyi ilave et mikserle çırp. Üzerine ceviz, hindistan cevizi serp."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 72,
+  "baslik": "Tahinli Kek (Sılay'ın)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["tahinli", "tahin", "kek"],
+  "malzemeler": [
+    "2 yumurta",
+    "1 su bardağı toz şeker",
+    "1 su bardağı süt",
+    "1 çay bardağından 1 parmak az ayçiçek yağı",
+    "1 çay bardağından 1 parmak az tahin",
+    "2 paket vanilin",
+    "Kabartma tozu",
+    "Un(Çok katı bir hamur olmayacak)"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 73,
+  "baslik": "Yeşil Mercimek Köftesi",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["yeşil", "mercimek", "köfte", "ana yemek"],
+  "malzemeler": [
+    "2 su bardağı yeşil mercimek",
+    "4 su bardağı ince bulgur",
+    "1 adet soğan",
+    "1 demet maydonoz",
+    "1 demet yeşil soğan",
+    "5 yumurta",
+    "100 gr. tereyağ",
+    "Yarım çay bardağı zeytinyağı",
+    "Kara biber, kırmızı pul biber, tuz"
+  ],
+  "hazirlanis": [
+    "Yeşil Mercimek ve soğanı kes suda haşla.",
+    "Sonra içine ince bulgur ekle biraz daha su ekle ocakta biraz daha kalsın.",
+    "Bulgur eridikten sonra ocağı demlenmesi için kapat.",
+    "İçine yeşil soğan, maydonoz ekle baharatları koy ve yoğur.",
+    "Başka bir kapta yağı erit, yumurtayı kır, içine koy ve karıştır. Çok yoğurmadan şekil ver üstüne kırmızı biber serp."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 74,
+  "baslik": "Pekmezli Kurabiye (Türkan Hanım Dokuma)",
+  "kategori": "Kurabiye",
+  "resim": "/images/kategoriler/kurabiye.jpg",
+  "etiketler": ["kurabiye", "pekmez", "pekmezli"],
+  "malzemeler": [
+    "1 nargarin",
+    "1 çay bardağı yoğurt",
+    "1 çay bardağı sıvı yağ",
+    "1 yumurtanın sarısı(beyazı üzerine)",
+    "Kabartma tozu",
+    "1 çay kaşığı katbonat",
+    "İç malzeme: 5 tane kuru incir, 5 tane kuru kayısı, 1 avuç üzüm, 2 elma rendesi(elmayı en son karıştır),1 su bardağı toz şeker, ceviz"
+  ],
+  "hazirlanis": [
+    "Bütün malzemeyi karıştır istediğin kadar un karıştır kulak memesi kıvamında olacak sonra hamuru dinlendir.",
+    "İçli köfte gibi aç üzerine yumurta ve cevizi sür piştikten sonra sıcakken üzerine pekmez dök 1 tatlı kaşığı"
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 75,
+  "baslik": "Küp (Ayşe Hanım Dokuma)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek", "küp", "kup", "tatlı"],
+  "malzemeler": [
+    "1 litre süt",
+    "2 kaşık un",
+    "5 kaşık mısır nişastası",
+    "1.5 bardak şeker",
+    "1 yumurta sarısı"
+  ],
+  "hazirlanis": [
+    "Malzemelerin hepsini çırp ocağın altını kapatınca vanilya dök.",
+    "1 kaşık tereyağı koy çırp ve soğumaya bırak soğuduktan sonra labne peyniri isterseniz krema veya 2 tane krem şanti çırp karıştır. (Bu malzeme hazır kek arasına koyabilirsin)",
+    "2 Paket bisküviyi robottan çek, 1 kaşık tereyağını erit içine koy ve karıştır. Kup bardaklarına az az koy üzerine sütlü malzemeyi koy.",
+    "Ara katına bisküvili malzeme üstüne meyve koyabilirsin yada çikolata eritip dökebilirsin."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 76,
+  "baslik": "Şambali (Ayşe Hanım Dokuma)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek","şambali", "tatlı"],
+  "malzemeler": [
+    "2 su bardağı irmik",
+    "1 bardak un",
+    "1 bardak yoğurt",
+    "1 çay bardağı sıvı yağ",
+    "1 su bardağı şeker",
+    "1 su bardağı süt",
+    "Kabartma tozu ve az limon",
+    "Şerbet için: 4.5 su bardağı su, 4 su bardağı şeker, az limon"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 77,
+  "baslik": "Saray Sarması (Ayşe Hanım Dokuma)",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek", "sarma", "saray sarması", "saray", "tatlı"],
+  "malzemeler": [
+   "5 su bardağı süt",
+   "4 kaşık mısır nişastası",
+   "3 kaşık kakao",
+   "1 kaşık un",
+   "1.5 bardak şeker",
+   "1 kaşık tereyağı"
+  ],
+  "hazirlanis": [
+    "Malzemeleri pişir",
+    "Tepsiye hindistan cevizi serip üstüne muhallebiyi dök, krem şantiyi çırp soğusun.",
+    "Uzun uzun kes ve rulo yap"
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 78,
+  "baslik": "Lahana Sarması (Muazzez Dokuma)",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["ana yemek", "lahana", "sarma"],
+  "malzemeler": [
+   "Beyaz lahananın göbeği",
+   "2 kırmızı elma (Küp şeklinde doğranmış)",
+   "1 rendelenmiş sarımsak",
+   "1 kase sarı üzüm yıka ve kurut",
+   "Yoğurt (kaplayacak kadar)",
+   "Ceviz"
+  ],
+  "hazirlanis": [
+    ""
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 79,
+  "baslik": "Pancar Salatası (Muazzez Dokuma)",
+  "kategori": "Aperatif",
+  "resim": "/images/kategoriler/aperatif.jpg",
+  "etiketler": ["aperatif", "pancar", "salata"],
+  "malzemeler": [
+   "2 Elma rendele",
+   "2 Pancar haşla ve rendele",
+   "2 havuç rendele",
+   "1 çay kaşığı ince bulgur ıslat",
+   "Ceviz"
+  ],
+  "hazirlanis": [
+    "Nar ekşisi, zeytinyağı ve tuzu harmanla"
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 80,
+  "baslik": "Haşhaşlı Çörek",
+  "kategori": "Poğaça",
+  "resim": "/images/kategoriler/pogaca.jpg",
+  "etiketler": ["çörek", "haşhaş", "haşhaşlı", "poğaça"],
+  "malzemeler": [
+   "1 çay bardağı ılık su",
+   "1 çay bardağı süt",
+   "Kuru maya",
+   "2 yemek kaşığı şeker",
+   "Tuz",
+   "Yarım çay bardağı sıvı yağ",
+   "Un",
+   "3 bardak su",
+   "İç kısım: Sıvı yağ ile haşhaşı karıştır, 200gr haşhaş, 1 çay bardağı sıvı yağ"
+  ],
+  "hazirlanis": [
+    "Unlu tezgahta hamuru küçük küçük kopar.",
+    "Dinlendikten sonra oklava ile tabak büyüklüğünde aç.",
+    "Yağlı kağıda koy üstüne haşhaşı sür sonra yine hamur, ondan sonra en sonun katmanın üstüne sürme.",
+    "Ortası boş kalacak şekilde daire şeklinde diz kalıp veya yanmaz bir huni kullan",
+    "Pasta keser gibi kes."
+  ],
+  "notlar": "Üstüne yumurta pişince naneli sıvı yağ dök."
+},
+{
+  "id": 81,
+  "baslik": "Muhacir Köfte",
+  "kategori": "Ana Yemek",
+  "resim": "/images/kategoriler/anayemek.jpg",
+  "etiketler": ["ana yemek", "muacir", "köfte", "muhacir"],
+  "malzemeler": [
+   "Yarım kilo kıyma",
+   "1 soğan",
+   "3 tane sarımsak",
+   "1 yumurta sarısı",
+   "Kara biber, kimyon",
+   "Galeta Unu",
+   "Süzme Yoğurt Sosu: 2 su bardağı süzme yoğurt, yarım bardak su, 1 yumurta, 2 kaşık un"
+    ],
+  "hazirlanis": [
+    "İyice yoğur, tepsiye un serp oval şekiller yapıp köfteyi una bula.",
+    "Yağda kızart tepsiye al, süzme yoğurtlu sosu üzerine dök ve fırına ver."
+  ],
+  "notlar": "Not Yok"
+},
+{
+  "id": 82,
+  "baslik": "Hamsi Köy Sütlaç",
+  "kategori": "Kek",
+  "resim": "/images/kategoriler/kek.jpg",
+  "etiketler": ["kek", "tatlı", "hamsi köy", "köy", "hamsi"],
+  "malzemeler": [
+   "1.5 su bardağı su",
+   "1.5 yemek kaşığı pirinç",
+   "1 litre süt",
+   "1 su bardağı şeker",
+   "1 paket vanilya",
+   "Tuz"
+
+    ],
+  "hazirlanis": [
+    "2 Yemek kaşığı nişasta ve Yarım çay bardağı suyu ayrı bir kapta karıştır. Sonra üzerine yumurta sarısı ekle.",
+    "Pişen pirinci tencereye al 1 litre süt ekle 3 dakika karıştırırken şekeri ekle ve pişir.",
+    "Sonra yumurtalı nişastayı ekle karıştır, vanilyayı ekle, tuzu ekle tabaklara koy ve fırına ver."
+  ],
+  "notlar": "Not Yok"
+}
+]
+  
